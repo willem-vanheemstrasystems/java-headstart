@@ -1,0 +1,15 @@
+package bucky;
+
+public class person {
+	private String personName;
+	// If a method does not return anything, use void
+	public void setName(String name){
+		personName = name;
+	}
+	public String getName(){
+		return personName;
+	}
+	public void sayHello(){
+		System.out.printf("Hi, my name is %s", getName());
+	}
+}
