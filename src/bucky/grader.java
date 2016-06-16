@@ -15,5 +15,6 @@ public class grader {
 			  counter++;
 		  }
 		  average = total/10;
+		  System.out.printf("You're average is %s", average);
 	}
 }
