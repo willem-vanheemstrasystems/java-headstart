@@ -1,12 +1,11 @@
 package bucky;
 
-public class specimen {
+public class Specimen {
 	private String name;
-	private String type;
-	private pointInTime birthday;
-	
+	private SpecimenType type;
+	private PointInTime birthday;
 	// Constructor
-	public specimen(String theName, String theType, pointInTime theBirthday){
+	public Specimen(String theName, SpecimenType theType, PointInTime theBirthday){
 		name = theName;
 		type = theType;
 		birthday = theBirthday;
@@ -14,6 +13,6 @@ public class specimen {
 	
 	// Method overwrite
 	public String toString(){
-		return String.format("My name is %s, I am a %s and my birthday is %s.", name, type, birthday);
+		return String.format("My name is %s, I am a %s and my birthday is %s.", name, type.toString().toLowerCase(), birthday);
 	}
 }

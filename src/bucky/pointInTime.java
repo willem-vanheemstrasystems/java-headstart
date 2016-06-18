@@ -1,12 +1,12 @@
 package bucky;
 
-public class pointInTime {
+public class PointInTime {
 	private int month;
 	private int day;
 	private int year;
 	
 	// Constructor
-	public pointInTime(int m, int d, int y){
+	public PointInTime(int m, int d, int y){
 		month = m;
 		day = d;
 		year = y;
