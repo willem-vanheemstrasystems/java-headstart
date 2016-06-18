@@ -1,11 +1,11 @@
 package bucky;
 
-public class timecalculatormain {
+public class timeCalculatorMain {
 	public static void main(String[] args){
-		timecalculator timecalculatorObject = new timecalculator();
-		System.out.println(timecalculatorObject.toMilitary());
-		timecalculatorObject.setTime(13, 27, 6);
-		System.out.println(timecalculatorObject.toMilitary());
-		System.out.println(timecalculatorObject.toNormal());
+		timeCalculator timeCalculatorObject = new timeCalculator();
+		System.out.println(timeCalculatorObject.toMilitary());
+		timeCalculatorObject.setTime(13, 27, 6);
+		System.out.println(timeCalculatorObject.toMilitary());
+		System.out.println(timeCalculatorObject.toNormal());
 	}
 }

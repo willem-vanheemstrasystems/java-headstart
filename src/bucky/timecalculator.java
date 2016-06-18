@@ -1,6 +1,6 @@
 package bucky;
 
-public class timecalculator {
+public class timeCalculator {
 	private int hour;
 	private int minute;
 	private int second;
