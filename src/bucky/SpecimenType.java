@@ -3,7 +3,7 @@ package bucky;
 public enum SpecimenType {
 	
 	// Constants
-	FISH("mamal", false),
+	FISH("mamal", false),    // Can be reached as SpecimenType.FISH
 	TURTLE("mamal", true);
 	
 	// Variables
