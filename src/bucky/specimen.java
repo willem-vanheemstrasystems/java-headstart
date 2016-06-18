@@ -13,6 +13,6 @@ public class Specimen {
 	
 	// Method overwrite
 	public String toString(){
-		return String.format("My name is %s, I am a %s and my birthday is %s.", name, type.toString().toLowerCase(), birthday);
+		return String.format("My name is %s, I am a %s and my birthday is %s.... And I am a %s %s.", name, type.toString().toLowerCase(), birthday, type.getCategory(), ((type.isLegged())?"with legs":"without legs"));
 	}
 }
