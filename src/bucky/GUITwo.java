@@ -58,7 +58,7 @@ public class GUITwo extends JFrame{
 			else if(event.getSource()==passwordField)
 				// Set string to input of password field text box
 				string = String.format("passwordfield: %s", event.getActionCommand());
-			// Show empty window - null positions the window in the center
+			// Show popup with string value - null positions the window in the center
 			JOptionPane.showMessageDialog(null, string);
 		}
 	}
