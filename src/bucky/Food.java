@@ -1,6 +1,7 @@
 package bucky;
-
-public class Food {
+// No instances can be created from an abstract class
+// only subclass instances
+abstract public class Food {
 	
 	// Method that can be inherited
 	public void eat(){
