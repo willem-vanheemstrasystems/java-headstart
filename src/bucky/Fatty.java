@@ -9,5 +9,10 @@ public class Fatty {
 		// Call the Food's eat method
 		x.eat();
 	}
+	
+	public void scrape(Food y){
+		// Call the Food's peel method
+		y.peel();
+	}
 
 }

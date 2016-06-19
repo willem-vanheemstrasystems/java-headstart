@@ -13,5 +13,8 @@ public class FattyMain {
 		fatboy.digest(vegetable);
 		fatboy.digest(fruit);
 		
+		fatboy.scrape(vegetable);
+		fatboy.scrape(fruit);		
+		
 	}
 }
