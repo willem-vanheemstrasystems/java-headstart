@@ -16,6 +16,8 @@ GUISixMain: Combobox
 GUISevenMain: Single select list
 GUIEightMain: Multiple select list
 GUINineMain: Mouse events
+GUITenMain: Adaptor classes (left vs right mouse button)
+
 ..
 
 
