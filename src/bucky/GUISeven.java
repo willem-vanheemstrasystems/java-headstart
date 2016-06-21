@@ -28,10 +28,7 @@ public class GUISeven extends JFrame {
 					// Background is behind content pane
 					getContentPane().setBackground(colors[list.getSelectedIndex()]);
 				}
-			}	
+			}
 		);
 	}
-	
-	
-	
 }
