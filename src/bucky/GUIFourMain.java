@@ -8,6 +8,5 @@ public class GUIFourMain {
 		guiFour.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		guiFour.setSize(250, 200);
 		guiFour.setVisible(true);
-		
 	}
 }

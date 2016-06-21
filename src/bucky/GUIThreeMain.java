@@ -9,6 +9,5 @@ public class GUIThreeMain {
 		guiThree.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		guiThree.setSize(300, 200);
 		guiThree.setVisible(true);
-		
 	}
 }
