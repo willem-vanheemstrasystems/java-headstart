@@ -55,6 +55,17 @@ GUITwentyFiveMain: Collections - ArrayList, Iterator, contains()
 https://www.youtube.com/watch?v=BRcY2vIr-EQ&list=PL27BCE863B6A864E3&index=6
 GUITwentySixMain: Collections - LinkedList
 
+7 - LinkedList Program
+https://www.youtube.com/watch?v=rW2OppsgJjQ&index=7&list=PL27BCE863B6A864E3
+GUITwentySevenMain: Collections - Linked Program, subList(), clear(), reverse
+
+8 - Converting Lists to Arrays
+https://www.youtube.com/watch?v=Sj2kCLjZZgk&index=8&list=PL27BCE863B6A864E3
+GUITwentyEightMain: Collections - 
+
+
+
+
 
 
 - http://docs.oracle.com/javase/tutorial/
