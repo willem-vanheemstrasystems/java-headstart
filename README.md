@@ -33,8 +33,23 @@ Intermediate Java Tutorials:
 
 1 - Common String Methods
 https://www.youtube.com/watch?v=vW53w7me4AE&list=PL27BCE863B6A864E3
+GUITwentyOneMain: Strings - startsWith(), endsWith()
 
+2 - Some More String Methods
+https://www.youtube.com/watch?v=Qi09pWsc7nA&list=PL27BCE863B6A864E3&index=2
+GUITwentyTwoMain: Strings - indexOf(), concat(), replace(), toUpperCase(), toLowerCase(), trim()
 
+3 - Recursion
+https://www.youtube.com/watch?v=fpuWkZs51aM&index=3&list=PL27BCE863B6A864E3
+GUITwentyThreeMain: Numbers - factorial, recursion
+
+4 - Introduction to Collections
+https://www.youtube.com/watch?v=jU5ACV5MucM&list=PL27BCE863B6A864E3&index=4
+GUITwentyFourMain: Collections - lists
+
+5 - ArrayList Program
+https://www.youtube.com/watch?v=uoLgfgcB3XQ&list=PL27BCE863B6A864E3&index=5
+GUITwentyFiveMain: Collections - ArrayList
 
 
 
