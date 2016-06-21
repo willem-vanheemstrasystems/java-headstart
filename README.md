@@ -3,6 +3,7 @@ Java - Headstart
 
 Based on:
 
+Beginner Java Tutorials:
 - https://www.youtube.com/watch?v=jWTjHmuuvJs
 - https://www.youtube.com/watch?v=43Uyv8E5TGw
 - https://www.youtube.com/watch?v=Do1ncU9IIQw
@@ -25,7 +26,16 @@ GUIFifteenMain: Exception handling
 GUISixteenMain: Flow layout
 GUISeventeenMain: Graphics - rectangles & text
 GUIEighteenMain: Graphics - color chooser
-..
+GUINineteenMain: Graphics - line, oval, 3D rectangle
+GUITwentyMain: Strings - equals()
+
+Intermediate Java Tutorials:
+
+1 - Common String Methods
+https://www.youtube.com/watch?v=vW53w7me4AE&list=PL27BCE863B6A864E3
+
+
+
 
 
 - http://docs.oracle.com/javase/tutorial/
