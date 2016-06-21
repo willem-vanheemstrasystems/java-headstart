@@ -49,7 +49,11 @@ GUITwentyFourMain: Collections - lists
 
 5 - ArrayList Program
 https://www.youtube.com/watch?v=uoLgfgcB3XQ&list=PL27BCE863B6A864E3&index=5
-GUITwentyFiveMain: Collections - ArrayList
+GUITwentyFiveMain: Collections - ArrayList, Iterator, contains()
+
+6 - LinkedList
+https://www.youtube.com/watch?v=BRcY2vIr-EQ&list=PL27BCE863B6A864E3&index=6
+GUITwentySixMain: Collections - LinkedList
 
 
 
