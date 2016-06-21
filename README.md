@@ -17,9 +17,10 @@ GUISevenMain: Single select list
 GUIEightMain: Multiple select list
 GUINineMain: Mouse events
 GUITenMain: Adaptor classes (left vs right mouse button)
-
+GUIElevenMain: File handling (check for file existence)
+GUITwelveMain: File handling (create a file)
+GUIThirteenMain: File handling (write to a file)
 ..
-
 
 
 - http://docs.oracle.com/javase/tutorial/
