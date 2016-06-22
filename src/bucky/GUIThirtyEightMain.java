@@ -2,7 +2,7 @@ package bucky;
 
 import java.util.*;
 
-public class GUIThirtySevenMain {
+public class GUIThirtyEightMain {
 	public static void main(String[] args){
 		// Variables
 		Integer[] integerArray = {1,2,3,4};

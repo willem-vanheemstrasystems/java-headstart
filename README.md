@@ -97,10 +97,11 @@ GUIThirtySixMain: Collections - HashSet
 
 17 - Generic Methods
 https://www.youtube.com/watch?v=J6B_qauxfuc&index=17&list=PL27BCE863B6A864E3
-GUIThirtySevenMain: Collections - Generic Methods
+GUIThirtySevenMain: Generic Methods
 
-
-
+18 - Implementing a Generic Method
+https://www.youtube.com/watch?v=ZoJaD0Qoi0o&index=18&list=PL27BCE863B6A864E3
+GUIThirtyEightMain: Implementing a Generic Method
 
 ____
 
