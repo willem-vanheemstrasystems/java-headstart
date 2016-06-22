@@ -63,9 +63,18 @@ GUITwentySevenMain: Collections - Linked Program, subList(), clear(), reverse
 https://www.youtube.com/watch?v=Sj2kCLjZZgk&index=8&list=PL27BCE863B6A864E3
 GUITwentyEightMain: Collections - asList(), toArray()
 
+9 - Collections Method sort
+https://www.youtube.com/watch?v=1QhS0aTiFhQ&list=PL27BCE863B6A864E3&index=9
+GUITwentyNineMain: Collections - sort
 
 
 
+
+- http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/
+
+1 - Streams
+https://www.youtube.com/watch?v=HVID35J7h_I
+STREAMOneMain: Streams
 
 
 - http://docs.oracle.com/javase/tutorial/
