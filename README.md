@@ -59,9 +59,9 @@ GUITwentySixMain: Collections - LinkedList
 https://www.youtube.com/watch?v=rW2OppsgJjQ&index=7&list=PL27BCE863B6A864E3
 GUITwentySevenMain: Collections - Linked Program, subList(), clear(), reverse
 
-8 - Converting Lists to Arrays
+8 - Converting Lists to Arrays and back
 https://www.youtube.com/watch?v=Sj2kCLjZZgk&index=8&list=PL27BCE863B6A864E3
-GUITwentyEightMain: Collections - 
+GUITwentyEightMain: Collections - asList(), toArray()
 
 
 
