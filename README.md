@@ -67,8 +67,11 @@ GUITwentyEightMain: Collections - asList(), toArray()
 https://www.youtube.com/watch?v=1QhS0aTiFhQ&list=PL27BCE863B6A864E3&index=9
 GUITwentyNineMain: Collections - sort
 
+10 - Methods reverse and copy
+https://www.youtube.com/watch?v=CfJCamxV3NQ&index=10&list=PL27BCE863B6A864E3&spfreload=1
+GUIThirtyMain: Collections
 
-
+____
 
 - http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/
 
