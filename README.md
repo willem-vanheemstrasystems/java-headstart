@@ -85,9 +85,20 @@ GUIThirtyThreeMain: Collections - frequency, disjoint
 
 14 - Collections Methods stacks, push and pop
 https://www.youtube.com/watch?v=8TMBjfS8wY0&index=14&list=PL27BCE863B6A864E3
-GUIThirtyFourMain: Collections - stacks, push and pop
+GUIThirtyFourMain: Collections - Stack: push and pop
 
 15 - Collections Method Queue
+https://www.youtube.com/watch?v=ZRs6dN_xUU0&list=PL27BCE863B6A864E3&index=15
+GUIThirtyFiveMain: Collections - PriorityQueue: offer(), peek() and poll()
+
+16 - Collections Method HashSet
+https://www.youtube.com/watch?v=Wd4jfE-iNnE&list=PL27BCE863B6A864E3&index=16
+GUIThirtySixMain: Collections - HashSet
+
+17 - Generic Methods
+https://www.youtube.com/watch?v=J6B_qauxfuc&index=17&list=PL27BCE863B6A864E3
+GUIThirtySevenMain: Collections - Generic Methods
+
 
 
 
