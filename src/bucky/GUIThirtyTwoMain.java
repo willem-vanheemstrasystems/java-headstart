@@ -14,10 +14,12 @@ public class GUIThirtyTwoMain {
 		arrayList.add("savory");
 		arrayList.add("sour");
 		// Enhanced for loop
-		for(String flavour: arrayList.toArray())
-			
-		
-		
-		
+		for(String flavour: arrayList)
+			System.out.printf("%s\t", flavour);
+		// Add all items to arrayList from fruitsArray
+		Collections.addAll(arrayList, fruitsArray);
+		System.out.println(); // Blank line
+		for(String flavour: arrayList)
+			System.out.printf("%s\t", flavour);
 	}
 }
