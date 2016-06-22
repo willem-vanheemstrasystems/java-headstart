@@ -65,19 +65,24 @@ GUITwentyEightMain: Collections - asList(), toArray()
 
 9 - Collections Method sort
 https://www.youtube.com/watch?v=1QhS0aTiFhQ&list=PL27BCE863B6A864E3&index=9
-GUITwentyNineMain: Collections - sort
+GUITwentyNineMain: Collections - sort()
 
 10 - Collections Methods reverse and copy
 https://www.youtube.com/watch?v=CfJCamxV3NQ&index=10&list=PL27BCE863B6A864E3&spfreload=1
-GUIThirtyMain: Collections - copy
+GUIThirtyMain: Collections - copy()
 
 11 - Collections Method fill
 https://www.youtube.com/watch?v=C_etrOreNQM&index=11&list=PL27BCE863B6A864E3
-GUIThirtyOneMain: Collections - fill
+GUIThirtyOneMain: Collections - fill()
 
 12 - Collections Method addAll
 https://www.youtube.com/watch?v=pUT9C9Mo0WM&list=PL27BCE863B6A864E3&index=12&spfreload=10
-GUIThirtyTwoMain: Collections - addAll
+GUIThirtyTwoMain: Collections - addAll()
+
+13 - Collections Methods frequency and disjoint
+https://www.youtube.com/watch?v=_8JMw7VATZA&list=PL27BCE863B6A864E3&index=13
+GUIThirtyThreeMain: Collections - frequency, disjoint
+
 
 ____
 
