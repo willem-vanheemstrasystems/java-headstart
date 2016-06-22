@@ -103,6 +103,10 @@ GUIThirtySevenMain: Generic Methods
 https://www.youtube.com/watch?v=ZoJaD0Qoi0o&index=18&list=PL27BCE863B6A864E3
 GUIThirtyEightMain: Implementing a Generic Method
 
+19 - Generic Return Types
+https://www.youtube.com/watch?v=QB5pQT45zvg&index=19&list=PL27BCE863B6A864E3
+GUIThirtyNineMain: Generic Return Types
+
 ____
 
 - http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/

@@ -10,18 +10,12 @@ public class GUIThirtyEightMain {
 		printMe(integerArray);
 		printMe(characterArray);
 	}
-	// Method
-	private static void printMe(Integer[] integer){
+	// Generic Method
+	// Notice the use of <T> before void
+	private static <T> void printMe(T[] type){
 		// Enhanced for loop
-		for(Integer i: integer)
-			System.out.printf("%s\t", i);
+		for(T t: type)
+			System.out.printf("%s\t", t);
 		System.out.println(); // Blank line
-	}
-	// Method
-	private static void printMe(Character[] character){
-		// Enhanced for loop
-		for(Character c: character)
-			System.out.printf("%s\t", c);
-		System.out.println(); // Blank line	
 	}	
 }
