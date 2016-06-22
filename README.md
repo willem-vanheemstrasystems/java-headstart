@@ -105,7 +105,12 @@ GUIThirtyEightMain: Implementing a Generic Method
 
 19 - Generic Return Types
 https://www.youtube.com/watch?v=QB5pQT45zvg&index=19&list=PL27BCE863B6A864E3
-GUIThirtyNineMain: Generic Return Types
+GUIThirtyNineMain: Generic Return Types - compareTo()
+
+20 - Introduction to Applets
+https://www.youtube.com/watch?v=2owQOOuRX60&index=20&list=PL27BCE863B6A864E3
+GUIFortyMain: Applets - Introduction
+
 
 ____
 
