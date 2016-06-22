@@ -83,6 +83,9 @@ GUIThirtyTwoMain: Collections - addAll()
 https://www.youtube.com/watch?v=_8JMw7VATZA&list=PL27BCE863B6A864E3&index=13
 GUIThirtyThreeMain: Collections - frequency, disjoint
 
+14 - Collections Methods stacks, push and pop
+https://www.youtube.com/watch?v=8TMBjfS8wY0&index=14&list=PL27BCE863B6A864E3
+GUIThirtyFourMain: Collections - stacks, push and pop
 
 ____
 
