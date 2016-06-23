@@ -132,6 +132,13 @@ GUIFortyThreeMain: Drawing an Oval with Slider
 https://www.youtube.com/watch?v=I1X9QUb-C1k&index=24&list=PL27BCE863B6A864E3
 GUIFortyFourMain: Building the Window for the Slider
 
+25 - Finishing the Oval Slider Program
+https://www.youtube.com/watch?v=X8ffr3UeE8c&list=PL27BCE863B6A864E3&index=25
+GUIFortyFiveMain: Finishing the Oval Slider Program
+
+26 - Learning about Threads
+https://www.youtube.com/watch?v=VYN-CBtPNiM&list=PL27BCE863B6A864E3&index=26
+GUIFortySixMain: Learning about Threads
 ____
 
 - http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/
