@@ -1,6 +1,9 @@
 # java-headstart
 Java - Headstart
 
+Tip: View Java content in Chrome using the IE Tab extension
+https://techhelpkb.com/how-to-use-java-in-google-chrome/
+
 Based on:
 
 Beginner Java Tutorials:
@@ -115,6 +118,10 @@ GUIFortyMain: Applets - Introduction
 https://www.youtube.com/watch?v=P6skXp4sLdQ&list=PL27BCE863B6A864E3&index=21
 GUIFortyOneMain: Applets - Putting an Applet on a Website
 http://vanheemstrapictures.com/java/html/bucky/GUIFortyOneMain.html
+
+22 - init for Applets
+https://www.youtube.com/watch?v=Ud9G_AFqTsk&list=PL27BCE863B6A864E3&index=22
+GUIFortyTwoMain: init for Applets
 
 
 ____
