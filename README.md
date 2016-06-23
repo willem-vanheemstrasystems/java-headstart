@@ -111,6 +111,11 @@ GUIThirtyNineMain: Generic Return Types - compareTo()
 https://www.youtube.com/watch?v=2owQOOuRX60&index=20&list=PL27BCE863B6A864E3
 GUIFortyMain: Applets - Introduction
 
+21 - How to put an Applet on a Website
+https://www.youtube.com/watch?v=P6skXp4sLdQ&list=PL27BCE863B6A864E3&index=21
+GUIFortyOneMain: Applets - Putting an Applet on a Website
+http://vanheemstrapictures.com/java/html/bucky/GUIFortyOneMain.html
+
 
 ____
 

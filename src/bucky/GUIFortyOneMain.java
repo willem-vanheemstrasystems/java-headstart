@@ -3,7 +3,7 @@ package bucky;
 import java.awt.*;
 import javax.swing.*;
 
-public class GUIFortyMain extends JApplet {
+public class GUIFortyOneMain extends JApplet {
 	// Method
 	public void paint(Graphics g){
 		// Import super class's paint methods
