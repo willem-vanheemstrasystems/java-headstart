@@ -121,8 +121,16 @@ http://vanheemstrapictures.com/java/html/bucky/GUIFortyOneMain.html
 
 22 - init for Applets
 https://www.youtube.com/watch?v=Ud9G_AFqTsk&list=PL27BCE863B6A864E3&index=22
-GUIFortyTwoMain: init for Applets
+GUIFortyTwoMain: Applets - init for Applets
+http://vanheemstrapictures.com/java/html/bucky/GUIFortyTwoMain.html
 
+23 - Drawing an Oval with Slider
+https://www.youtube.com/watch?v=ME4k3U05RMo&list=PL27BCE863B6A864E3&index=23
+GUIFortyThreeMain: Drawing an Oval with Slider
+
+24 - Building the Window for the Slider
+https://www.youtube.com/watch?v=I1X9QUb-C1k&index=24&list=PL27BCE863B6A864E3
+GUIFortyFourMain: Building the Window for the Slider
 
 ____
 
