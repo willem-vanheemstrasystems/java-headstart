@@ -148,6 +148,18 @@ GUIFortySevenMain: Threads
 https://www.youtube.com/watch?v=dlgnmZD-Dzk&index=28&list=PL27BCE863B6A864E3&spfreload=1
 GUIFortyEightMain: Networking
 
+29 - Making a Simple Networking Applet
+https://www.youtube.com/watch?v=CadrkLb4AAU&list=PL27BCE863B6A864E3&index=29
+GUIFortyNineMain: Networking Applet
+
+30 - init for Networking Applet
+https://www.youtube.com/watch?v=nZJbjC7pOl0&index=30&list=PL27BCE863B6A864E3
+GUIFiftyMain: Applet - init
+
+31 - Listening for User Events
+https://www.youtube.com/watch?v=vrl8AJCSKL4&index=31&list=PL27BCE863B6A864E3
+GUIFiftyOneMain: Applet - user events
+
 ____
 
 - http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/
