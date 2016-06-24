@@ -139,6 +139,15 @@ GUIFortyFiveMain: Finishing the Oval Slider Program
 26 - Learning about Threads
 https://www.youtube.com/watch?v=VYN-CBtPNiM&list=PL27BCE863B6A864E3&index=26
 GUIFortySixMain: Learning about Threads
+
+27 - What do I look like, a Thread?
+https://www.youtube.com/watch?v=oUSpVDbT5eg&list=PL27BCE863B6A864E3&index=27
+GUIFortySevenMain: Threads
+
+28 - Beginning Networking
+https://www.youtube.com/watch?v=dlgnmZD-Dzk&index=28&list=PL27BCE863B6A864E3&spfreload=1
+GUIFortyEightMain: Networking
+
 ____
 
 - http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/
