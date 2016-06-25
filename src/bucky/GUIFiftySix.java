@@ -41,10 +41,17 @@ public class GUIFiftySix extends JFrame {
 				}
 			}
 		);
-		
+		add(new JScrollPane(display), BorderLayout.CENTER);
+		setSize(500, 300);
+		setVisible(true);
 	}
 	// Method
-	private void loadPage(){
-		
+	private void loadPage(String link){
+		try{
+			display.setPage(link);
+			addressBar.setText(link);
+		}catch(Exception ex){
+			System.out.println("An exception was caught.");
+		}
 	}
 }

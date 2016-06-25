@@ -181,6 +181,13 @@ GUIFiftyFiveMain: web browser - building the GUI
 https://www.youtube.com/watch?v=PVOG57JaHPg&index=36&list=PL27BCE863B6A864E3
 GUIFiftyFiveMain: web browser - loadPage()
 
+37 - Starting the GUI 
+https://www.youtube.com/watch?v=1mHqkbt0w6Y&list=PL27BCE863B6A864E3&index=37
+GUIFiftySixMain: web browser - starting the GUI
+
+38 - Awesome Instant Messaging Program with Streams and Sockets
+https://www.youtube.com/watch?v=pr02nyPqLBU&index=38&list=PL27BCE863B6A864E3
+GUIFiftySevenMain: chat - beginning
 __
 
 - http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/
