@@ -160,7 +160,24 @@ GUIFiftyMain: Applet - init
 https://www.youtube.com/watch?v=vrl8AJCSKL4&index=31&list=PL27BCE863B6A864E3
 GUIFiftyOneMain: Applet - user events
 
-____
+32 - Getting the Data from the HTML File
+https://www.youtube.com/watch?v=FMV1eMapiSY&list=PL27BCE863B6A864E3&index=32
+GUIFiftyTwoMain: Applet - getting the data from the HTML
+
+33 - Uploading and Testing the Applet
+https://www.youtube.com/watch?v=kXGHTYRgjgk&index=33&list=PL27BCE863B6A864E3
+GUIFiftyThreeMain: Applet - Uploading and Testing
+http://vanheemstrapictures.com/java/html/bucky/GUIFiftyThreeMain.html
+
+34 - Creating a Simple Web Browser
+https://www.youtube.com/watch?v=anoPsxasIBE&list=PL27BCE863B6A864E3&index=34
+GUIFiftyFourMain: web browser
+
+35 - Building the GUI
+https://www.youtube.com/watch?v=1Fqeik0iN3s&index=35&list=PL27BCE863B6A864E3&spfreload=1
+GUIFiftyFiveMain: web browser - building the GUI
+
+__
 
 - http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/
 

@@ -5,7 +5,7 @@ import java.applet.*;
 import javax.swing.*;
 import javax.swing.event.*;
 
-public class GUIFiftyTwoMain extends JApplet {
+public class GUIFiftyThreeMain extends JApplet {
 	// Variables
 	private HashMap<String, URL> hashMap;
 	private ArrayList<String> titles;
@@ -34,6 +34,7 @@ public class GUIFiftyTwoMain extends JApplet {
 				}
 			}
 		);
+		add(new JScrollPane(list), BorderLayout.CENTER);
 	}
 	// Method
 	private void grabHTMLInfo(){
