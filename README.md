@@ -188,6 +188,11 @@ GUIFiftySixMain: web browser - starting the GUI
 38 - Awesome Instant Messaging Program with Streams and Sockets
 https://www.youtube.com/watch?v=pr02nyPqLBU&index=38&list=PL27BCE863B6A864E3
 GUIFiftySevenMain: chat - beginning
+
+39 - GUI for Instant Messenger
+https://www.youtube.com/watch?v=9gDErZCtdzM&list=PL27BCE863B6A864E3&index=39
+GUIFiftyEightMain: chat - GUI
+
 __
 
 - http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/
