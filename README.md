@@ -193,6 +193,14 @@ GUIFiftySevenMain: chat - beginning
 https://www.youtube.com/watch?v=9gDErZCtdzM&list=PL27BCE863B6A864E3&index=39
 GUIFiftyEightMain: chat - GUI
 
+40 - Setting Up the Server
+https://www.youtube.com/watch?v=vJ3jAaKPFIU&index=40&list=PL27BCE863B6A864E3
+GUIFiftyNineMain: chat - Setting up the Server
+
+41 - Waiting for a Connection
+https://www.youtube.com/watch?v=7Y2rj3tFQK0&index=41&list=PL27BCE863B6A864E3
+GUISixtyMain: chat - Waiting for a Connection
+
 __
 
 - http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/
