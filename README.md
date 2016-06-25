@@ -177,6 +177,10 @@ GUIFiftyFourMain: web browser
 https://www.youtube.com/watch?v=1Fqeik0iN3s&index=35&list=PL27BCE863B6A864E3&spfreload=1
 GUIFiftyFiveMain: web browser - building the GUI
 
+36 - loadPage()
+https://www.youtube.com/watch?v=PVOG57JaHPg&index=36&list=PL27BCE863B6A864E3
+GUIFiftyFiveMain: web browser - loadPage()
+
 __
 
 - http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/
