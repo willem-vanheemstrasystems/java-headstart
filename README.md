@@ -201,6 +201,11 @@ GUIFiftyNineMain: chat - Setting up the Server
 https://www.youtube.com/watch?v=7Y2rj3tFQK0&index=41&list=PL27BCE863B6A864E3
 GUISixtyMain: chat - Waiting for a Connection
 
+42 - Setting Up the Streams
+https://www.youtube.com/watch?v=OqPH0SSjjH0&list=PL27BCE863B6A864E3&index=42&spfreload=1
+GUISixtyOneMain: chat - Setting up the streams
+
+
 __
 
 - http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/

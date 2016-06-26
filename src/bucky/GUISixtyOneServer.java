@@ -6,7 +6,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class GUISixtyServer extends JFrame {
+public class GUISixtyOneServer extends JFrame {
 	// Variables
 	private JTextField userText;
 	private JTextArea chatWindow;
@@ -15,7 +15,7 @@ public class GUISixtyServer extends JFrame {
 	private ServerSocket server;
 	private Socket connection;
 	// Constructor
-	public GUISixtyServer(){
+	public GUISixtyOneServer(){
 		super("the Server");
 		// user text
 		userText = new JTextField();
