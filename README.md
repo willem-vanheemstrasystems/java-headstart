@@ -283,7 +283,7 @@ Java Game Development with Slick
 1 - Setting Up the Project
 https://www.youtube.com/watch?v=AXNDBQfCd08&list=PL210C2267A8922854
 GUIEightyMain; game - setting up the project
-
+
 __
 
 - http://zeroturnaround.com/rebellabs/streams-the-real-powerhouse-in-java-8-by-venkat-subramaniam/
@@ -294,4 +294,12 @@ STREAMOneMain: Streams
 
 
 - http://docs.oracle.com/javase/tutorial/
+
+__
+
+Book 'Beginning Java Programming - The Object-Oriented Approach'
+by Bart Baesens, Aimee Backiel, Seppe vanden Broucke
+
+ch3 - Installing Eclipse on Your Computer
+MyFirstApplication:
 
