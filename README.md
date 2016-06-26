@@ -303,6 +303,9 @@ by Bart Baesens, Aimee Backiel, Seppe vanden Broucke
 BeginningJavaProgramming
 MyFirstApplication
 
+BJPCh5 - BreakLoop
+BJPCh5 - DoWhileLoop
+BJPCh5 - EnhancedForLoop
 BJPCh5 - ForLoop
-
-
+BJPCh5 - SwitchClass
+BJPCh5 - WhileLoop
