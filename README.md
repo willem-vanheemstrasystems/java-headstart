@@ -205,6 +205,21 @@ GUISixtyMain: chat - Waiting for a Connection
 https://www.youtube.com/watch?v=OqPH0SSjjH0&list=PL27BCE863B6A864E3&index=42&spfreload=1
 GUISixtyOneMain: chat - Setting up the streams
 
+43 - whileChatting
+https://www.youtube.com/watch?v=pERSi0SjgyI&index=43&list=PL27BCE863B6A864E3
+GUISixtyTwoMain: chat - While chatting
+
+44 - Closing Down the Streams and Sockets
+https://www.youtube.com/watch?v=KenYq5Na8QY&index=44&list=PL27BCE863B6A864E3
+GUISixtyThreeMain: chat - closing down the streams and sockets
+
+45 - How to Send Messages
+https://www.youtube.com/watch?v=r-yuvNv58nM&index=45&list=PL27BCE863B6A864E3
+GUISixtyFourMain: chat - send messages
+
+46 - Displaying Messages in the Chat Window
+https://www.youtube.com/watch?v=S8bEQMYDzkU&index=46&list=PL27BCE863B6A864E3
+GUISixtyFiveMain: chat - displaying messages in the chat window
 
 __
 
