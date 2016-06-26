@@ -187,7 +187,7 @@ GUIFiftySixMain: web browser - starting the GUI
 
 38 - Awesome Instant Messaging Program with Streams and Sockets
 https://www.youtube.com/watch?v=pr02nyPqLBU&index=38&list=PL27BCE863B6A864E3
-GUIFiftySevenMain: chat - beginning
+GUIFiftySevenMain: chat - beginning the server side
 
 39 - GUI for Instant Messenger
 https://www.youtube.com/watch?v=9gDErZCtdzM&list=PL27BCE863B6A864E3&index=39
@@ -220,6 +220,69 @@ GUISixtyFourMain: chat - send messages
 46 - Displaying Messages in the Chat Window
 https://www.youtube.com/watch?v=S8bEQMYDzkU&index=46&list=PL27BCE863B6A864E3
 GUISixtyFiveMain: chat - displaying messages in the chat window
+
+47 - Giving the User Permission to Type
+https://www.youtube.com/watch?v=Vlu2m5wCwjg&index=47&list=PL27BCE863B6A864E3
+GUISixtySixMain: chat - able to type
+
+48 - Testing the Servers Instant Messenger
+https://www.youtube.com/watch?v=MYjodmqION0&list=PL27BCE863B6A864E3&index=48
+GUISixtySevenServerMain: chat - testing the server's instant messenger
+
+49 - Beginning the Client Messaging System
+https://www.youtube.com/watch?v=Igx1uEfCcXI&index=49&list=PL27BCE863B6A864E3
+GUISixtyEightClientMain: chat - beginning the client side
+
+50 - Creating the GUI for the Client
+https://www.youtube.com/watch?v=YFqVL2qSMs0&index=50&list=PL27BCE863B6A864E3
+GUISixtyNineClientMain: chat - creating the client GUI
+
+51 - Setting Up the Client for Chatting
+https://www.youtube.com/watch?v=a_4NM9duhSY&list=PL27BCE863B6A864E3&index=51
+GUISeventyClientMain: chat - setting up the client
+
+52 - Connecting to the Server
+https://www.youtube.com/watch?v=XJpgUbUzGOg&list=PL27BCE863B6A864E3&index=52
+GUISeventyOneClientMain: chat - connecting to the server
+
+53 - Setting Up the Client Streams
+https://www.youtube.com/watch?v=r8qUd4lINmI&index=53&list=PL27BCE863B6A864E3
+GUISeventyTwoClientMain: chat - setting up the client streams
+
+54 - whileChatting Client
+https://www.youtube.com/watch?v=eEmfeZNF_f4&index=54&list=PL27BCE863B6A864E3
+GUISeventyThreeClientMain: chat - while chatting client
+
+55 - Closing Down the Client Stuff
+https://www.youtube.com/watch?v=_hP3IfnrJ5U&list=PL27BCE863B6A864E3&index=55
+GUISeventyFourClientMain: chat - close all on client
+
+56 - Sending Messages to the Server
+https://www.youtube.com/watch?v=-5SDy0am1QI&list=PL27BCE863B6A864E3&index=56
+GUISeventyFiveClientMain: chat - sending messages to the server
+
+57 - showMessage and ableToType
+https://www.youtube.com/watch?v=d0E7xVgiWog&list=PL27BCE863B6A864E3&index=57
+GUISeventySixClientMain: chat - show message and able to type
+
+58 - Finishing the Coding for the Instant Message Program
+https://www.youtube.com/watch?v=qEcztLI84A4&list=PL27BCE863B6A864E3&index=58
+GUISeventySevenClientMain: chat - finishing the client
+
+59 - Running Instant Messenger!
+https://www.youtube.com/watch?v=pyqThWRHiHA&index=59&list=PL27BCE863B6A864E3
+GUISeventyEightClientMain: chat - running the instant messenger
+GUISixtyEightServerMain: chat - running the instant messenger
+
+Type: END to close the connection
+__
+
+
+Java Game Development with Slick
+
+1 - Setting Up the Project
+https://www.youtube.com/watch?v=AXNDBQfCd08&list=PL210C2267A8922854
+GUIEightyMain; game - setting up the project
 
 __
 

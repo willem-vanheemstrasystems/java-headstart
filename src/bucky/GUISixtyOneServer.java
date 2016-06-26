@@ -64,6 +64,14 @@ public class GUISixtyOneServer extends JFrame {
 		showMessage("Now connected to "+connection.getInetAddress().getHostName());
 	}
 	// Method
+	private void setupStreams() throws IOException {
+		output = new ObjectOutputStream(connection.getOutputStream());
+		// Clear buffer
+		output.flush();
+		input = new ObjectInputStream(connection.getInputStream());
+		showMessage("\nStreams are now setup\n");
+	}
+	// Method
 	private void sendMessage(String message){
 		
 	}

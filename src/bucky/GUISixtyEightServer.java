@@ -6,7 +6,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class GUISixtyFiveServer extends JFrame {
+public class GUISixtyEightServer extends JFrame {
 	// Variables
 	private JTextField userText;
 	private JTextArea chatWindow;
@@ -15,7 +15,7 @@ public class GUISixtyFiveServer extends JFrame {
 	private ServerSocket server;
 	private Socket connection;
 	// Constructor
-	public GUISixtyFiveServer(){
+	public GUISixtyEightServer(){
 		super("the Server");
 		// user text
 		userText = new JTextField();
@@ -110,8 +110,17 @@ public class GUISixtyFiveServer extends JFrame {
 		);
 	}
 	// Method
-	private void ableToType(Boolean trueOrFalse){
-		
+	private void ableToType(final boolean trueOrFalse){
+		// Update the chat window
+		SwingUtilities.invokeLater(
+			// Create a thread	
+			new Runnable(){
+				// Overwrite the abstract method
+				public void run(){
+					userText.setEditable(trueOrFalse);
+				}
+			}
+		);		
 	}
 	// Method
 	private void closeAll(){
