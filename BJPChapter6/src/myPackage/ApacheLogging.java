@@ -36,9 +36,19 @@ public class ApacheLogging {
 			// System.out.println("monthlyPension is too low.");
 			logger.fatal("monthlyPension is too low.");
 		}
+		// Create some messages to test the different levels of the logger
+		logger.trace("finely detailed TRACE message");
+		logger.debug("detailed DEBUG message");
+		logger.info("informational message");
+		logger.warn("warning message");
+		logger.error("error message");
+		logger.fatal("fatal message");
 	}
 	// Method recalculate
 	public static void recalculate(double fundAmount, double rate){
+		logger.entry();
 		fundAmount = fundAmount * (1 + rate);
+		logger.info("fundAmount = " + fundAmount);
+		logger.exit();
 	} 
 }
