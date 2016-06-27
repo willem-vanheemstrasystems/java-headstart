@@ -322,3 +322,5 @@ BJPCh6 - Resources
 BJPCh6 - SyntaxErrors
 BJPCh6 - ThrowsExceptions
 BJPCh6 - TryCatchExample
+
+BJPCh7 - Person
