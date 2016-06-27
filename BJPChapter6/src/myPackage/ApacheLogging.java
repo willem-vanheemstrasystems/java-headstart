@@ -13,6 +13,8 @@ import org.apache.logging.log4j.LogManager;
  * Extract the zip file and add the following jar files to the Referenced Libraries
  * - log4j-api-2.x.x.jar
  * - log4j-core-2.x.x.jar
+ * Create a log4j2.xml file in the src directory
+ * and hit refresh in Eclipse project view and then it works.
  */
 public class ApacheLogging {
 	// Class variable
@@ -31,7 +33,8 @@ public class ApacheLogging {
 		double monthlyPension = retirementFund / yearsInRetirement / 12;
 		System.out.println(name + " will have $" + monthlyPension + " per month for retirement.");
 		if(monthlyPension < 100){
-			System.out.println("monthlyPension is too low.");
+			// System.out.println("monthlyPension is too low.");
+			logger.fatal("monthlyPension is too low.");
 		}
 	}
 	// Method recalculate
