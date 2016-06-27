@@ -317,5 +317,5 @@ BJPCh6 - ExceptionExamples
 BJPCh6 - IndexExceptionExample
 BJPCh6 - Resources
 BJPCh6 - SyntaxErrors
+BJPCh6 - ThrowsExceptions
 BJPCh6 - TryCatchExample
-
