@@ -310,11 +310,14 @@ BJPCh5 - ForLoop
 BJPCh5 - SwitchClass
 BJPCh5 - WhileLoop
 
+BJPCh6 - ApacheLogging
 BJPCh6 - BigDecimalCalculator
+BJPCh6 - DebugExample
 BJPCh6 - EndlessMethodCall
 BJPCh6 - EndlessLoop
 BJPCh6 - ExceptionExamples
 BJPCh6 - IndexExceptionExample
+BJPCh6 - LoggingExample
 BJPCh6 - Resources
 BJPCh6 - SyntaxErrors
 BJPCh6 - ThrowsExceptions
