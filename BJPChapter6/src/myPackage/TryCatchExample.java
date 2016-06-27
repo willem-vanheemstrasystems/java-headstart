@@ -21,8 +21,15 @@ public class TryCatchExample {
 		for(int i = age; i <= 65; i++){
 			recalculate(retirementFund, 0.1);
 		}
-		double monthlyPension = retirementFund/yearsInRetirement/12;
-		System.out.println(name + " will have $" + monthlyPension + " per month for retirement.");
+		try{
+			double monthlyPension = retirementFund/yearsInRetirement/12;
+			System.out.println(name + " will have $" + monthlyPension + " per month for retirement.");
+		}catch(ArithmeticException ae){
+			System.out.println(ae);
+			System.exit(0);
+		}finally{
+			System.out.println("Finally was reached.");
+		}
 	}
 	// Method
 	public static void recalculate(double fundAmount, double rate){
