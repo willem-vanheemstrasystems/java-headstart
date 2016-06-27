@@ -309,3 +309,11 @@ BJPCh5 - EnhancedForLoop
 BJPCh5 - ForLoop
 BJPCh5 - SwitchClass
 BJPCh5 - WhileLoop
+
+BJPCh6 - BigDecimalCalculator
+BJPCh6 - EndlessMethodCall
+BJPCh6 - EndlessLoop
+BJPCh6 - ExceptionExamples
+BJPCh6 - IndexExceptionExample
+BJPCh6 - SyntaxErrors
+
